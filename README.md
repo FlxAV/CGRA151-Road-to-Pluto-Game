@@ -22,21 +22,13 @@ To play Road to Pluto, you'll need to have Processing installed. Follow these st
 
 1. **Install Processing:** If you haven't already, download and install Processing from processing.org.
 
-2. **Download the Game:**
+2. **Download the Game:** Clone this repository or download the project files to your local machine.
 
-Clone this repository or download the project files to your local machine.
+3. **Open the Game:** Launch Processing and open the main .pde file of the game.
 
-3. **Open the Game:**
+4. **Run the Game:** Use the play or run button in Processing to start the game.
 
-Launch Processing and open the main .pde file of the game.
-
-4. **Run the Game:**
-
-Use the play or run button in Processing to start the game.
-
-5. **Controls:**
-
-Use the arrow keys (up, down, left, right) or other designated keys to control the astronaut’s movements.
+5. **Controls:** Use the arrow keys (up, down, left, right) or other designated keys to control the astronaut’s movements.
 
 ## Features
 
